@@ -1,3 +1,8 @@
+# CyberConnect Daily Check In
+Follow twitter account @stometaverse for updates 
+
+关注推特 @stometaverse 会持续分享web3相关的信息！ 
+
 # 如何找到auth token 
 1. 打开cyberConnect 页面，cyber.co/stake?code=SJ1IS
 2. 右击选择inspect或者F12 打开控制台界面
